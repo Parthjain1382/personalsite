@@ -1,0 +1,107 @@
+body{
+  text-align: center;
+background-color: #DEF5E5;
+}
+
+.container{
+  height: 600px;
+  width: 100%;
+  background-color: #C8FFD4;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding-top: 50px;
+}
+
+.cloud1{
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+
+.cloud2{
+  display: inline-block;
+  position: absolute;
+  left:300px;
+  bottom: 250px;
+}
+
+hr{
+  width: 10%;
+  border-top: 6px dotted;
+  border-bottom: none;
+  border-spacing: 5px;
+  color: #FAF7F0;
+}
+
+.it{
+  font-family: 'Montserrat',sans-serif;
+  margin-left: 20px;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+
+.nametag{
+  display: inline-block;
+  font-family: 'Sacramento',sans-serif;
+  font-size: 3.5rem;
+
+}
+
+
+.mountain{
+  position: absolute;
+  bottom: 0px;
+  right: 290px;
+  width: 900px;
+  height: 350px;
+  opacity: 60%;
+}
+
+.profilepic{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+.skillc{
+  margin-left: 120px;
+}
+
+.skillh{
+  margin-left: 120px;
+}
+
+.skills{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skillhead{
+  background-color: #9ED5C5;
+  font-style: 'Sacramento',sans-serif;
+  height: 60px;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+}
+
+.skill1{
+  width: 9%;
+  float: left;
+}
+
+.skill2{
+  width: 9%;
+  float: left;
+}
